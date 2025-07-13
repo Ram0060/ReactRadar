@@ -1,0 +1,22 @@
+{
+  "total_brands_analyzed": 1,
+  "average_rating": 3.0,
+  "highest_rated_brand": {
+    "brand": "",
+    "rating": 3.0
+  },
+  "lowest_rated_brand": {
+    "brand": "",
+    "rating": 3.0
+  },
+  "price_distribution": {
+    "budget_brands": 0,
+    "premium_brands": 0,
+    "mid_range_brands": 1
+  },
+  "quality_distribution": {
+    "high_quality_brands": 0,
+    "basic_quality_brands": 1
+  },
+  "analysis_timestamp": "2024-01-01T00:00:00Z"
+}

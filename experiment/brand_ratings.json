@@ -1,0 +1,18 @@
+[
+  {
+    "brand": "",
+    "avg_rating": 3.0,
+    "avg_score": 0.5,
+    "total_statements": 1,
+    "positive_percentage": 0.0,
+    "negative_percentage": 0.0,
+    "neutral_percentage": 100.0,
+    "statements": [
+      {
+        "text": "string",
+        "label": "NEUTRAL",
+        "rating": 3
+      }
+    ]
+  }
+]

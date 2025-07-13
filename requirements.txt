@@ -1,0 +1,15 @@
+# FastAPI requirements for ReactRadar API
+
+# Core FastAPI dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# Optional dependencies for enhanced functionality
+python-multipart>=0.0.6  # For file uploads
+aiofiles>=23.0.0  # For async file operations
+
+# Development dependencies (optional)
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+httpx>=0.25.0  # For testing FastAPI 

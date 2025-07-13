@@ -1,0 +1,12 @@
+[
+  {
+    "brand": "",
+    "statements": [
+      {
+        "text": "string",
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    ]
+  }
+]

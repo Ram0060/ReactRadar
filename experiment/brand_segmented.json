@@ -1,0 +1,14 @@
+{
+  "total_brands": 0,
+  "price_categories": {
+    "budget": 0,
+    "mid_range": 0,
+    "premium": 0
+  },
+  "quality_categories": {
+    "basic": 0,
+    "standard": 0,
+    "premium": 0
+  },
+  "brands": []
+}
