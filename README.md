@@ -19,22 +19,4 @@ python start_server.py
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-### 3. Access the API
-- **API Documentation**: http://localhost:8000/docs
-- **ReDoc Documentation**: http://localhost:8000/redoc
-- **Health Check**: http://localhost:8000/health
 
-## 📋 API Endpoints
-
-### Core Analysis Endpoints
-
-#### `POST /analyze`
-Analyze a transcript and extract comprehensive brand insights.
-
-**Request Body:**
-```json
-{
-  "transcript": "Your transcript text here...",
-  "save_results": true
-}
-```
